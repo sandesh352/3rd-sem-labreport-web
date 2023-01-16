@@ -1,0 +1,50 @@
+main{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 20% 30% 50%;
+    grid-template-rows: 10% 10% 70% 10%;
+    grid-template-areas: 
+    "Header Header Header"
+    "Second Second Second"
+    "Left Center Right"
+    "Footer Footer Footer"
+    ;
+}
+.f{
+    grid-area: Header;
+    background-color: red;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+.s{
+    grid-area: Second;
+    background-color: rgb(224, 160, 160);
+}
+
+.t{
+    grid-area: Left;
+    background-color: grey;
+}
+.fo{
+    grid-area: Center;
+    background-color: rgba(149, 222, 23, 0.536);
+}
+.fi{
+    grid-area: Right;
+    background-color: rgb(42, 194, 194);
+}
+.si{
+    grid-area:  Footer;
+    background-color: rgb(5, 99, 99);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}

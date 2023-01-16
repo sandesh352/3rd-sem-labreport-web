@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT distance (#PCDATA)>
+<!ATTLIST distance unit "km"#>
+<distance unit=""km">100</distance>

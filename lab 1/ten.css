@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container 
+{
+    max-width: 700px;
+    padding: 25px 30px;
+    border-radius: 5px;
+}
+.tittle{
+    font-size: 30px;
+   
+}
+
+input{
+    width: 30%;
+    border-radius: 5px;
+    padding: 7px;
+    display: block;
+} 
+
+.btn{
+    
+    width: 25%;
+}

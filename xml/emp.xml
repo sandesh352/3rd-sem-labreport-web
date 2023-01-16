@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<company>
+<employee>
+<fullname>Ishan</fullname>
+<designation>Senior developer</designation>
+<address>KTM</address>
+</employee>
+<employee>
+<fullname>Nishan</fullname>
+<designation>Developer</designation>
+</employee>
+<employee>
+<fullname>Sandesh</fullname>
+<designation>Manager</designation>
+</employee>
+</company>

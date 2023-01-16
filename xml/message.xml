@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<message xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:noNamespaceSchemaLocation ="message.xsd">
+<to>Nishan</to>
+<from>Uchit noob</from>
+<heading>Request</heading>
+<country>usa</country>
+<age>11</age>
+<body lang="en">
+<info>please help</info>
+</body>
+<password>ihwj2uid</password>
+</message>

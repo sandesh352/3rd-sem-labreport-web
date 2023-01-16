@@ -1,0 +1,11 @@
+<!ELEMENT Student (name, class, address, phonenumber)>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name id (101|102|103|104) "101">
+
+<!ELEMENT class (#PCDATA)>
+<!ATTLIST class batch (BCA|CSIT|BIM|BIT) "BCA">
+
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT phonenumber (#PCDATA)>
+ 

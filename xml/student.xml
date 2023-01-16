@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" standalone="no"?>
+<!DOCTYPE Student SYSTEM "student.dtd">
+
+<Student>
+<name id="101">
+javed aktar
+</name>
+<class batch="BCA">
+BCA|CSIT|BIM|BIT
+</class>
+<address>
+NEW DELHI
+</address>
+<phonenumber>
+1234567890
+</phonenumber>
+</Student>
